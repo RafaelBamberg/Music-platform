@@ -2,13 +2,13 @@
 
 ## Techs and libraries
 
-* [React.js](https://reactjs.org/) - Used as the main tech in this project
-* [Typescript](https://testing-library.com/docs/react-testing-library/intro/) - To test the components
-* [Styled Components](https://reactjs.org/) -  To style and create useful hooks
-* [React Router](https://reactrouter.com/) - To create the routes of the aplication
-* [Redux](https://testing-library.com/docs/react-testing-library/intro/) - To test the components
-* [Redux Saga](https://testing-library.com/docs/react-testing-library/intro/) - To test the components
-* [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) - To test the components
+* [React.js](https://reactjs.org/)
+* [Typescript](https://testing-library.com/docs/react-testing-library/intro/)
+* [Styled Components](https://reactjs.org/)
+* [React Router](https://reactrouter.com/)
+* [Redux](https://testing-library.com/docs/react-testing-library/intro/)
+* [Redux Saga](https://testing-library.com/docs/react-testing-library/intro/)
+* [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 
 
 ## Instructions
