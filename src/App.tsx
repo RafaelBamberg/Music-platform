@@ -6,7 +6,7 @@ type Props = {
 
 const App = (props: Props) => {
   return (
-    <div>App</div>
+    <div>Teste</div>
   )
 }
 
